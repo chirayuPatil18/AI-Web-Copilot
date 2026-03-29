@@ -73,11 +73,11 @@ This project demonstrates **Retrieval-Augmented Generation (RAG)**, **semantic s
 
 ---
 
+
 ## ⚙️ Setup Instructions
 
-1️⃣ Clone Repository
-
 ```bash
+### 1️⃣ Clone Repository
 git clone https://github.com/your-username/ai-web-copilot.git
 cd ai-web-copilot
 
