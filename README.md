@@ -73,34 +73,9 @@ This project demonstrates **Retrieval-Augmented Generation (RAG)**, **semantic s
 
 ---
 
-## 🏗️ Project Structure
-AI Web Copilot/
-│
-├── backend/
-│ ├── app/
-│ │ ├── main.py
-│ │ ├── routes.py
-│ │ ├── rag_pipeline.py
-│ │ ├── embeddings.py
-│ │ ├── llm.py
-│ │ ├── cache.py
-│ │ └── schema.py
-│ │
-│ ├── .env
-│ └── requirements.txt
-│
-├── extension/
-│ ├── content.js
-│ └── manifest.json
-│
-└── README.md
-
-
----
-
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/ai-web-copilot.git
